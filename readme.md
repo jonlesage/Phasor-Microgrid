@@ -1,0 +1,6 @@
+# Systems-Level Microgrid Simulation from Simple One-Line Diagram
+
+This example is used in the "Microgrid System Development and Analysis" Video Series. This particular example is used in "Part 3: Using Simscape Power Systems to Simulate Microgrids": https://www.mathworks.com/videos/series/microgrid-system-development-and-analysis.html
+Simscape Power Systems can be used to schematically represent a one-line microgrid diagram using blocks that represent different distributed energy resources (DERs). The DERs in this example include renewables, such as solar, a diesel GenSet, and an energy storage system (ESS).
+
+Using the simple microgrid, you see how desktop simulation can be used to subject the distribution system with residential load changes or unintentional islanding of the microgrid. The included slides detail other common workflows for systems-level microgrid simulation. Using Simulink Real-time, this simple microgrid can quickly be migrated to a real-time machine for hardware-in-the-loop testing.
